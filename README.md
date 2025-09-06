@@ -8,8 +8,8 @@ This project presents interactive Power BI dashboards designed to analyze credit
 The goal is to help businesses and financial institutions understand customer behavior, identify revenue drivers, and optimize credit card strategies.
 
 🖼️ **Dashboard Screenshots**
-- ![Customer Report](images/CC-Customer.jpg)
-- ![Transaction Report](images/CC-Transaction.jpg)
+- ![Customer Report](CC-Customer.jpg)
+- ![Transaction Report](CC-Transaction.jpg)
 
 
 🎯 **Objectives**
