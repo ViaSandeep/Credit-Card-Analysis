@@ -1,4 +1,4 @@
-📊 ## *Credit Card Customer & Transaction Dashboard*
+📊 #**Credit Card Customer & Transaction Dashboard**
 🔎 Overview
 
 This project presents interactive Power BI dashboards designed to analyze credit card customer profiles and transaction patterns. The dashboards provide a holistic view of demographics, income groups, spending habits, card categories, and transaction modes.
