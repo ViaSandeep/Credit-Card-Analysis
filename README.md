@@ -1,62 +1,63 @@
-#📊 Credit Card Customer & Transaction Dashboard
+📊 ## *Credit Card Customer & Transaction Dashboard*
 🔎 Overview
 
-This project presents interactive Power BI dashboards designed to analyze credit card customer profiles and transaction patterns. The dashboards provide a holistic view of customer demographics, income groups, spending habits, card categories, and transaction modes.
+This project presents interactive Power BI dashboards designed to analyze credit card customer profiles and transaction patterns. The dashboards provide a holistic view of demographics, income groups, spending habits, card categories, and transaction modes.
 
 The goal is to help businesses and financial institutions understand customer behavior, identify revenue drivers, and optimize credit card strategies.
 
-##🖼️ Dashboard Screenshots
+🖼️ Dashboard Screenshots
 - ![Customer Report](images/CC-Customer.jpg)
 - ![Transaction Report](images/CC-Transaction.jpg)
 
-#🎯 Objectives
 
-To analyze customer demographics such as gender, age, salary, marital status, education, and location.
+🎯 Objectives
 
-To evaluate credit card usage trends across transaction categories, card types, and channels.
+Analyze customer demographics such as gender, age, salary, marital status, education, and location.
 
-To identify high-value customer groups contributing most to revenue and transactions.
+Evaluate credit card usage trends across transaction categories, card types, and channels.
 
-To track quarterly performance in terms of revenue and transaction count.
+Identify high-value customer groups contributing most to revenue and transactions.
 
-To support data-driven decision-making for product development, marketing, and risk management.
+Track quarterly performance in terms of revenue and transaction count.
 
-#🖥️ Dashboard Highlights
-##Customer Report
+Support data-driven decision-making for product development, marketing, and risk management.
 
-Total Revenue, Income, Interest, and CSS score overview.
+🖥️ Dashboard Highlights
+Customer Report
 
-Revenue analysis by gender, age group, state, salary group, and education level.
+KPIs: Total Revenue, Total Income, Interest Earned, CSS Score.
 
-Customer segmentation by job type, marital status, and dependents.
+Revenue analysis by gender, age group, state, salary group, education level.
+
+Customer segmentation by job type, marital status, dependents.
 
 Identification of top states and income groups contributing to revenue.
 
-##Transaction Report
+Transaction Report
 
-Total Revenue, Transaction Amount, Transaction Count, and Interest earned.
+KPIs: Total Revenue, Transaction Amount, Transaction Count, Interest Earned.
 
 Breakdown by card category (Gold, Silver, Blue, Platinum).
 
 Quarterly revenue vs. transaction trends.
 
-Expenditure distribution across bills, fuel, entertainment, food, travel, etc.
+Expenditure distribution: bills, fuel, entertainment, food, travel, etc.
 
 Revenue by transaction channel (swipe, chip, online).
 
-#💡 Key Insights
+💡 Key Insights
 
-Blue card holders generate the maximum revenue compared to other categories.
+Blue card holders generate the maximum revenue.
 
-Graduate and high-income groups contribute significantly to overall spending.
+Graduate & high-income groups are top contributors to spending.
 
-Businessmen and white-collar professionals are among the top revenue drivers.
+Businessmen & white-collar professionals drive the highest revenue.
 
-Bills, entertainment, and fuel are leading expenditure categories.
+Bills, entertainment, and fuel dominate expenditure categories.
 
-Male customers show slightly higher revenue contribution than female customers.
+Male customers contribute slightly more revenue than female customers.
 
-#🛠️ Tools & Technologies
+🛠️ Tools & Technologies
 
 Power BI – Dashboard development & visualization
 
@@ -64,7 +65,7 @@ MS Excel / SQL – Data preparation & cleaning
 
 Dataset – Simulated credit card customer & transaction data
 
-#📌 Conclusion
+📌 Conclusion
 
 These dashboards provide deep insights into customer behavior and transaction trends, enabling financial institutions to:
 
