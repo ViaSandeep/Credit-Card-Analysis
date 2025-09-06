@@ -1,16 +1,18 @@
-📊 #**Credit Card Customer & Transaction Dashboard**
-🔎 Overview
+📊 **Credit Card Customer & Transaction Dashboard**
+
+
+🔎 **Overview**
 
 This project presents interactive Power BI dashboards designed to analyze credit card customer profiles and transaction patterns. The dashboards provide a holistic view of demographics, income groups, spending habits, card categories, and transaction modes.
 
 The goal is to help businesses and financial institutions understand customer behavior, identify revenue drivers, and optimize credit card strategies.
 
-🖼️ Dashboard Screenshots
+🖼️ **Dashboard Screenshots**
 - ![Customer Report](images/CC-Customer.jpg)
 - ![Transaction Report](images/CC-Transaction.jpg)
 
 
-🎯 Objectives
+🎯 **Objectives**
 
 Analyze customer demographics such as gender, age, salary, marital status, education, and location.
 
@@ -22,8 +24,10 @@ Track quarterly performance in terms of revenue and transaction count.
 
 Support data-driven decision-making for product development, marketing, and risk management.
 
-🖥️ Dashboard Highlights
-Customer Report
+
+🖥️ **Dashboard Highlights**
+
+**Customer Report**
 
 KPIs: Total Revenue, Total Income, Interest Earned, CSS Score.
 
@@ -33,7 +37,8 @@ Customer segmentation by job type, marital status, dependents.
 
 Identification of top states and income groups contributing to revenue.
 
-Transaction Report
+
+**Transaction Report**
 
 KPIs: Total Revenue, Transaction Amount, Transaction Count, Interest Earned.
 
@@ -45,7 +50,8 @@ Expenditure distribution: bills, fuel, entertainment, food, travel, etc.
 
 Revenue by transaction channel (swipe, chip, online).
 
-💡 Key Insights
+
+💡 **Key Insights**
 
 Blue card holders generate the maximum revenue.
 
@@ -57,7 +63,8 @@ Bills, entertainment, and fuel dominate expenditure categories.
 
 Male customers contribute slightly more revenue than female customers.
 
-🛠️ Tools & Technologies
+
+🛠️ **Tools & Technologies**
 
 Power BI – Dashboard development & visualization
 
@@ -65,7 +72,8 @@ MS Excel / SQL – Data preparation & cleaning
 
 Dataset – Simulated credit card customer & transaction data
 
-📌 Conclusion
+
+📌 **Conclusion**
 
 These dashboards provide deep insights into customer behavior and transaction trends, enabling financial institutions to:
 
